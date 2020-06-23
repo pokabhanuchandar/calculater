@@ -1,0 +1,59 @@
+// Outscal (www.outscal.com) Admission Coding Challenge 
+// Language prefered is C++ (if you are new to C++ / OOPs programming, 
+// please watch the Youtube videos shared along with this assignment to learn the basics)
+// Alternative languages that you can choose - Java, Python, C# (if you are familiar with them)
+// If you choose a different language you can click the "new repl" button in the top right corner 
+// of the screen and choose the language of your choice to implement your solution.
+
+// Submission Process - 
+// 1. Click "Fork" button at the top of this page if you are using C++ for the assignment
+//    (for any other language - refer to the instructions at the top of the page)
+// 2. Right your code and test it, make sure it runs as expected 
+// 3. Once complete please submit open this link http://bit.ly/2H0yEG9 and submit the google form
+// (Note: please do not share with us text/zip files/attachments to showcase your solution)
+
+//Calculator Problem
+//This program takes an arithmetic operator +, -, *, / and two inputs from the user. 
+//Then, it performs the calculation on the two inputs depending upon the operator entered by the user.
+//   +  2+2=4 ;  
+//   -  3-1=2 ;
+//   *  4*3=12;
+//   /  10/5=2;  
+//Extra points for applying extra checks (hint: for division operation)
+
+
+
+#include <iostream>
+using namespace std;
+int main() 
+{
+int n;
+float a,b,c;
+cout<<"enter A value\n";
+cin>>a;
+cout<<"enter B value\n";
+cin>>b;
+cout<<"enter \n 1.add \n 2.sub 3 .milt \n 4.div \n";
+cin>>n;
+    switch(n)
+    {
+      case 1:
+      c=a+b;
+      cout<<"addition ="<<c<<"\n";
+      break;
+      case 2:
+      c=a-b;
+      cout<<"subtration="<<c<<"\n";
+      break;
+      case 3:
+      c=a*b;
+      cout<<"multiplication="<<c<<"\n";
+      break;
+      case 4:
+      c=a/b;
+      cout<<"division="<<c<<"\n";
+      break;
+     
+    }
+return 0;
+}
