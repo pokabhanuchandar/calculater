@@ -1,0 +1,26 @@
+DP 700
+
+Day1
+
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/01-lakehouse.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/01-lakehouse.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/02-analyze-spark.html
+
+Day2
+
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03b-medallion-lakehouse.html
+
+Day3
+
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/07-real-time-Intelligence.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/09-real-time-analytics-eventstream.html
+https://learn.microsoft.com/en-us/training/paths/implement-lakehouse-microsoft-fabric/
+ 
+https://learn.microsoft.com/en-us/training/paths/explore-real-time-analytics-microsoft-fabric/
+
+Day4
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06-data-warehouse.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06a-data-warehouse-load.html
+https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/06b-data-warehouse-query.html
